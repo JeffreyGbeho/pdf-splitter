@@ -70,7 +70,7 @@ python pdf_splitter.py report.pdf 1-5 10-15 20
 
 You will get:
 ```
-Copieroutput/
+output/
 └── report/
     ├── report_1-5.pdf
     ├── report_10-15.pdf
